@@ -9,8 +9,8 @@ Based on exercises from http://machinelearningmastery.com/
 
 ## Opening the notebooks in Google Colaboratory
 
-The 2019 Deep Learning Tutorials will be running in Google's Colab, a Jupyter notebook environment that runs in the cloud.
+The 2019 Deep Learning Tutorials will be running in Google Colab, a free to us Jupyter notebook environment that runs in the cloud.
 
 ***To run these notebooks***
-*Firstly log in your Google using the university's UPI login.
-*Secondly on this Github repo, navitage to the tutorial notebook you want to run (*.ipynb) and open it. Click the "Run in Colab" link on the top of the notebook. Done! 
+* Firstly log in with your Google account using the university's UPI login
+* Secondly on this Github repo, navitage to the tutorial notebook you want to run (*.ipynb) and open it. Click the "Run in Colab" link on the top of the notebook. Done! 
