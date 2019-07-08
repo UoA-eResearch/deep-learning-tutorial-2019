@@ -5,17 +5,12 @@ Hi everyone, welcome to our deep-learning tutorial. In this workshop we will go 
 Over the decades, deep learning has revolutionised many aspects of research and technology.
 
 Have you ever used Siri to set an alarm?
-![alt text](https://static1.squarespace.com/static/54f96b07e4b04529199fd6a5/t/5b5b393a1ae6cf14d8e0dc67/1532705098916/Siri+setting+alarm+demo.gif)
 
-Maybe you've seen self-driving functionality in modern cars
-![alt text](https://media0.giphy.com/media/zIjYSIA6Nq8us/giphy.gif)
+![siri](https://static1.squarespace.com/static/54f96b07e4b04529199fd6a5/t/5b5b393a1ae6cf14d8e0dc67/1532705098916/Siri+setting+alarm+demo.gif)
 
+Face recognition?
 
-How about landing a rocket on a tilting platform after sending it off to space?
-
-![alt text](https://cdn.vox-cdn.com/thumbor/JR7ymlAAJ9PxnWLjcPLjtI-0wL8=/2x0:477x267/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/49270193/landing.0.0.gif)
-
-These are all examples of Machine Learning, an increasingly common and powerful method of utilising data in the technology space.
+![face-reg](https://cdn.vox-cdn.com/uploads/chorus_asset/file/9865669/FoolishAlarmingAttwatersprairiechicken_max_14mb.gif)
 
 ## What will you learn today?
 
