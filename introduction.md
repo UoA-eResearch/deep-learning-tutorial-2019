@@ -1,6 +1,6 @@
-# Deep-Learning Tutorial
+# Welcome to Introduction to Deep Learning workshop 2019
 
-Hi everyone, welcome to our deep-learning tutorial. In this workshop we will go over some of the most fundamental and common use cases for creating neural networks.
+Our goal in this workshop is to provide you a good understanding in deep learning and inspire you to learn more and implement these models to your own research problems.
 
 Over the decades, deep learning has revolutionised many aspects of research and technology.
 
@@ -8,24 +8,34 @@ Have you ever used Siri to set an alarm?
 
 ![siri](https://static1.squarespace.com/static/54f96b07e4b04529199fd6a5/t/5b5b393a1ae6cf14d8e0dc67/1532705098916/Siri+setting+alarm+demo.gif)
 
-Face recognition?
+Self-driving car?
 
-![face-reg](https://cdn.vox-cdn.com/uploads/chorus_asset/file/9865669/FoolishAlarmingAttwatersprairiechicken_max_14mb.gif)
+![self-driving](https://media1.tenor.com/images/8456fab940258acf57869491f5cc18d3/tenor.gif?itemid=10697697)
+
+Facial recognition?
+
+![facial-recognition](https://cdn.vox-cdn.com/thumbor/Izxk07irjgvKcoeA1z1tvc4geVY=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9865669/FoolishAlarmingAttwatersprairiechicken_max_14mb.gif)
+
+Medical diagnosis
+
+![med](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/lung_cancer_scan.gif)
+
+## All these buzzwords
+
+![ai](https://1.bp.blogspot.com/-ldVI2916ElA/W_aQyOoUFMI/AAAAAAAAFmw/0AMKqgpUlA0e2qOdomvaLy8IHW2_xMmKACLcBGAs/s1600/AI%2B-%2BML%2B-%2BDL.PNG)
 
 ## What will you learn today?
 
-(Repetitive with the initial intro) Today you will learn how to tackle some of the most common and fundamental case studies using deep-learning.
+Today you will learn the fundamentals of deep learning and go through some of the most common case studies with neural networks.
 
-We will do this using the various python packages, most notably we will be using Keras, a high-level machine-learning packaged based off Tensor Flow which is widely used in the machine-learning industry.
-
-With this knowledge and tooling we hope to provide a good basis(?) for you to experiment and explore creating deep-learning models solutions.
+You will use Keras to create your first deep learning models. Keras is an open-source neural-network library running on top of Tensorflow written in Python. It is designed to be easy to use and to enable fast experimentation with deep neural networks.
 
 ## Agenda 
 
-We will go over three exercises today.
+* Fundamentals of neural networks
 
-* In the simplest case, we're going to learn how deep-learning can be used to diagnose disease.
+* Deep learning for a binary classification problem - **Pima Indians Diabetes**
 
-* Next, in a slightly more complex situation, we're going to classify flowers into species using their morphology.
+* Deep learning for a multiclass classification problem - **Iris Flower**
 
-* Finally, we will go over creating a convolutional network in order to identify digits from images of handwritten characters which will touch on the fundamental of computer vision and convolutions in deep-learning.
+* Deep learning for image classification problem - **MNIST Handwritten Digit**
