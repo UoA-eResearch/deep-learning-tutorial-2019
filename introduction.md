@@ -28,6 +28,8 @@ Medical diagnosis
 
 Today you will learn the fundamentals of deep learning and go through some of the most common case studies with neural networks.
 
+![keras](https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/226/full/EGH_KerasNeural_Final.png)
+
 You will use Keras to create your first deep learning models. Keras is an open-source neural-network library running on top of Tensorflow written in Python. It is designed to be easy to use and to enable fast experimentation with deep neural networks.
 
 ## Agenda 
