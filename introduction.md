@@ -16,7 +16,7 @@ Maybe your phone is able to unlock by facial recognition
 
 ![facial-recognition](https://cdn.vox-cdn.com/thumbor/Izxk07irjgvKcoeA1z1tvc4geVY=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9865669/FoolishAlarmingAttwatersprairiechicken_max_14mb.gif)
 
-Or maybe you've learn of artificial intelligence being used in medicine
+Or maybe you've heard of artificial intelligence being used in medicine
 
 ![med](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/lung_cancer_scan.gif)
 
