@@ -8,21 +8,29 @@ Have you ever used Siri to set an alarm?
 
 ![siri](https://static1.squarespace.com/static/54f96b07e4b04529199fd6a5/t/5b5b393a1ae6cf14d8e0dc67/1532705098916/Siri+setting+alarm+demo.gif)
 
-Self-driving car?
+Maybe you've seen clips of self-driving cars on the internet or perhaps in person.
 
 ![self-driving](https://media1.tenor.com/images/8456fab940258acf57869491f5cc18d3/tenor.gif?itemid=10697697)
 
-Facial recognition?
+Maybe your phone is able to unlock by facial recognition
 
 ![facial-recognition](https://cdn.vox-cdn.com/thumbor/Izxk07irjgvKcoeA1z1tvc4geVY=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9865669/FoolishAlarmingAttwatersprairiechicken_max_14mb.gif)
 
-Medical diagnosis
+Or maybe you've learn of artificial intelligence being used in medicine
 
 ![med](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/lung_cancer_scan.gif)
 
-## All these buzzwords
+These are all examples of Deep Learning
+
+## Deep learning is commonly heard of but what does it mean?
 
 ![ai](https://1.bp.blogspot.com/-ldVI2916ElA/W_aQyOoUFMI/AAAAAAAAFmw/0AMKqgpUlA0e2qOdomvaLy8IHW2_xMmKACLcBGAs/s1600/AI%2B-%2BML%2B-%2BDL.PNG)
+
+Artificial Intelligence can be defined as a computer system that mimics human intelligence.
+
+Machine Learning can be defined as learning without being explicity programmed to do so.
+
+Deep Learning is a subset of that which is learning to identify patterns in data using neural networks.
 
 ## What will you learn today?
 
