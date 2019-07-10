@@ -1,10 +1,10 @@
-# Welcome to Introduction to Deep Learning workshop 2019
+# Welcome to Introduction to Deep Learning
 
-Our goal in this workshop is to provide you a good understanding in deep learning and inspire you to learn more and implement these models to your own research problems.
+Our goal in this workshop is to provide you with a better understanding of deep learning and inspire you to learn more and implement these models to your own research problems.
 
-Over the decades, deep learning has revolutionised many aspects of research and technology.
+Over the decades, deep learning has revolutionised many aspects of research and technology:
 
-Have you ever used Siri to set an alarm?
+Maybe you've used Siri to set an alarm.
 
 ![siri](https://static1.squarespace.com/static/54f96b07e4b04529199fd6a5/t/5b5b393a1ae6cf14d8e0dc67/1532705098916/Siri+setting+alarm+demo.gif)
 
@@ -12,15 +12,15 @@ Maybe you've seen clips of self-driving cars on the internet or perhaps in perso
 
 ![self-driving](https://media1.tenor.com/images/8456fab940258acf57869491f5cc18d3/tenor.gif?itemid=10697697)
 
-Maybe your phone is able to unlock by facial recognition
+Maybe your phone is able to unlock by facial recognition.
 
 ![facial-recognition](https://cdn.vox-cdn.com/thumbor/Izxk07irjgvKcoeA1z1tvc4geVY=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9865669/FoolishAlarmingAttwatersprairiechicken_max_14mb.gif)
 
-Or maybe you've heard of artificial intelligence being used in medicine
+Or maybe you've heard of artificial intelligence being used in medicine.
 
 ![med](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/lung_cancer_scan.gif)
 
-These are all examples of Deep Learning
+These are all examples of deep learning and it's power.
 
 ## Deep learning is commonly heard of but what does it mean?
 
