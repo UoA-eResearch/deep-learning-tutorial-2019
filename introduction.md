@@ -30,7 +30,7 @@ Artificial Intelligence can be defined as a computer system that mimics human in
 
 Machine Learning can be defined as learning without being explicity programmed to do so.
 
-Deep Learning is a subset of that which is learning to identify patterns in data using neural networks.
+Deep Learning can be defined as learning to identify patterns in data using neural networks.
 
 ## What will you learn today?
 
