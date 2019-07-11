@@ -34,11 +34,11 @@ Deep Learning can be defined as learning to identify patterns in data using neur
 
 ## What will you learn today?
 
-Today you will learn the fundamentals of deep learning and go through some of the most common case studies with neural networks.
+Today you will learn the fundamentals of deep learning and go through some exercises to show the fundamentals of using neural networks.
 
 ![keras](https://keras.io/img/keras-logo-small.jpg)
 
-You will use Keras to create your first deep learning models. Keras is an open-source neural-network library running on top of Tensorflow written in Python. It is designed to be easy to use and to enable fast experimentation with deep neural networks.
+We will use Keras to create these deep learning models. Keras is an open-source neural-network library running on top of Tensorflow and written in Python. It is designed to be easy to use and to enable fast experimentation with deep neural networks.
 
 ## Agenda 
 
