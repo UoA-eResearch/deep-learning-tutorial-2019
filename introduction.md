@@ -2,7 +2,7 @@
 
 Our goal in this workshop is to provide you with a better understanding of deep learning and inspire you to learn more and implement these models to your own research problems.
 
-
+## Examples of deep learning
 
 Over the decades, deep learning has revolutionised many aspects of research and technology:
 
